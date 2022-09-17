@@ -1,0 +1,19 @@
+.articles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 64px;
+}
+.vorschauKarte div {
+  padding: 5px;
+  height: 100px;
+}
+
+.vorschauKarte h3 {
+  margin-bottom: 20px;
+}
+
+img {
+  width: 280px;
+  height: 200px;
+  border-radius: 10px;
+}
